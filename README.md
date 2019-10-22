@@ -10,3 +10,5 @@ produto ao cliente".
   
 Diretório: "Motolink(Code)" contém o código em Java, juntamento com uma bateria de testes.  
 Arquivo: "UML_Motolink.uml" contém o diagrama de classes usado para o desenvolvimento do projeto. 
+  
+![](UML.png)
